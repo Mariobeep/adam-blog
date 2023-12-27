@@ -1,0 +1,4 @@
+Hoy es mi cumple
+---
+img: cumpletarta.jpg # Add image post (optional)
+---
